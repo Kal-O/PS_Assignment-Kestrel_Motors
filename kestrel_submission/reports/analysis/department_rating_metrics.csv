@@ -1,0 +1,5 @@
+department,responses,rated,negative,comments,proxy_negative_text,negative_rating_rate
+Parts,689,689,111,501,38,0.1611
+Sales,1526,1524,165,1093,55,0.1083
+Service,4798,4790,1284,3706,378,0.2681
+Unknown,112,112,28,84,9,0.25

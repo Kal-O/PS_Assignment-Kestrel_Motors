@@ -1,0 +1,24 @@
+dealer_code,responses,rated,negative,comments,proxy_negative_text,negative_rating_rate,dealership_name,state,status
+NSW01,479,479,133,362,29,0.2777,Kestrel Parramatta,NSW,Open
+NSW02,497,497,109,361,33,0.2193,Kestrel Penrith,NSW,Open
+NSW03,278,278,69,221,21,0.2482,Kestrel Chatswood,NSW,Open
+NSW04,311,311,67,237,19,0.2154,Kestrel Liverpool,NSW,Open
+NSW05,303,303,67,223,22,0.2211,Kestrel Newcastle,NSW,Open
+NSW06,285,285,47,217,13,0.1649,Kestrel Wollongong,NSW,Open
+NSW07,143,133,21,102,10,0.1579,Kestrel Tamworth,NSW,Open
+QLD01,460,460,109,350,29,0.237,Kestrel Chermside,QLD,Open
+QLD03,267,267,58,197,15,0.2172,Kestrel Ipswich,QLD,Open
+QLD04,250,250,63,191,17,0.252,Kestrel Southport,QLD,Open
+QLD05,49,49,1,37,0,0.0204,Kestrel Noosa,QLD,Open
+QLD06,250,250,58,189,16,0.232,Kestrel Toowoomba,QLD,Open
+QLD07,202,202,52,156,12,0.2574,Kestrel Rockhampton,QLD,Open
+QLD08,354,354,80,263,28,0.226,Kestrel Townsville,QLD,Open
+VIC01,484,484,123,373,41,0.2541,Kestrel Dandenong,VIC,Open
+VIC02,764,764,130,568,45,0.1702,Kestrel Ringwood,VIC,Open
+VIC03,346,346,85,269,33,0.2457,Kestrel Essendon,VIC,Open
+VIC04,308,308,72,233,19,0.2338,Kestrel Frankston,VIC,Open
+VIC05,309,309,74,242,26,0.2395,Kestrel Box Hill,VIC,Open
+VIC06,304,304,69,231,17,0.227,Kestrel Geelong,VIC,Open
+VIC07,292,292,65,227,24,0.2226,Kestrel Ballarat,VIC,Open
+VIC08,144,144,29,103,10,0.2014,Kestrel Bendigo,VIC,Open
+VIC09,46,46,7,32,1,0.1522,Kestrel Shepparton,VIC,Closed

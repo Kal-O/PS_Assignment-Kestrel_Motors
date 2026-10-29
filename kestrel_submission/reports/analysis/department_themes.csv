@@ -1,0 +1,25 @@
+department,theme,proxy_mentions
+Parts,Communication,10
+Parts,Parts availability,4
+Parts,Price & billing,8
+Parts,Quality & repairs,1
+Parts,Staff & courtesy,7
+Parts,Waiting & delays,15
+Sales,Communication,17
+Sales,Parts availability,1
+Sales,Price & billing,16
+Sales,Quality & repairs,1
+Sales,Staff & courtesy,6
+Sales,Waiting & delays,13
+Service,Communication,136
+Service,Parts availability,16
+Service,Price & billing,87
+Service,Quality & repairs,39
+Service,Staff & courtesy,45
+Service,Waiting & delays,103
+Unknown,Communication,2
+Unknown,Parts availability,1
+Unknown,Price & billing,2
+Unknown,Quality & repairs,3
+Unknown,Staff & courtesy,2
+Unknown,Waiting & delays,1

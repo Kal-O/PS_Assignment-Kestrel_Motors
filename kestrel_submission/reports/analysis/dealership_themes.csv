@@ -1,0 +1,112 @@
+dealer_code,theme,proxy_mentions
+NSW01,Communication,9
+NSW01,Parts availability,1
+NSW01,Price & billing,4
+NSW01,Quality & repairs,4
+NSW01,Staff & courtesy,2
+NSW01,Waiting & delays,8
+NSW02,Communication,10
+NSW02,Parts availability,1
+NSW02,Price & billing,8
+NSW02,Quality & repairs,1
+NSW02,Staff & courtesy,2
+NSW02,Waiting & delays,12
+NSW03,Communication,8
+NSW03,Price & billing,9
+NSW03,Quality & repairs,1
+NSW03,Staff & courtesy,1
+NSW03,Waiting & delays,3
+NSW04,Communication,6
+NSW04,Parts availability,1
+NSW04,Price & billing,2
+NSW04,Quality & repairs,3
+NSW04,Staff & courtesy,3
+NSW04,Waiting & delays,4
+NSW05,Communication,7
+NSW05,Parts availability,1
+NSW05,Price & billing,8
+NSW05,Staff & courtesy,2
+NSW05,Waiting & delays,7
+NSW06,Communication,7
+NSW06,Parts availability,2
+NSW06,Price & billing,2
+NSW06,Quality & repairs,1
+NSW06,Staff & courtesy,1
+NSW06,Waiting & delays,3
+NSW07,Communication,3
+NSW07,Price & billing,4
+QLD01,Communication,16
+QLD01,Parts availability,1
+QLD01,Price & billing,8
+QLD01,Quality & repairs,4
+QLD01,Staff & courtesy,2
+QLD01,Waiting & delays,7
+QLD03,Communication,6
+QLD03,Price & billing,4
+QLD03,Quality & repairs,3
+QLD03,Staff & courtesy,4
+QLD03,Waiting & delays,3
+QLD04,Communication,7
+QLD04,Price & billing,4
+QLD04,Quality & repairs,1
+QLD04,Staff & courtesy,5
+QLD04,Waiting & delays,2
+QLD06,Communication,4
+QLD06,Price & billing,6
+QLD06,Quality & repairs,1
+QLD06,Staff & courtesy,1
+QLD06,Waiting & delays,3
+QLD07,Communication,2
+QLD07,Price & billing,6
+QLD07,Quality & repairs,2
+QLD07,Staff & courtesy,4
+QLD07,Waiting & delays,2
+QLD08,Communication,7
+QLD08,Price & billing,6
+QLD08,Staff & courtesy,1
+QLD08,Waiting & delays,12
+VIC01,Communication,11
+VIC01,Parts availability,1
+VIC01,Price & billing,6
+VIC01,Quality & repairs,3
+VIC01,Staff & courtesy,5
+VIC01,Waiting & delays,11
+VIC02,Communication,18
+VIC02,Parts availability,2
+VIC02,Price & billing,8
+VIC02,Quality & repairs,4
+VIC02,Staff & courtesy,9
+VIC02,Waiting & delays,14
+VIC03,Communication,13
+VIC03,Parts availability,7
+VIC03,Price & billing,6
+VIC03,Quality & repairs,4
+VIC03,Staff & courtesy,1
+VIC03,Waiting & delays,14
+VIC04,Communication,5
+VIC04,Parts availability,3
+VIC04,Price & billing,3
+VIC04,Quality & repairs,1
+VIC04,Staff & courtesy,3
+VIC04,Waiting & delays,9
+VIC05,Communication,9
+VIC05,Price & billing,10
+VIC05,Quality & repairs,6
+VIC05,Staff & courtesy,3
+VIC05,Waiting & delays,7
+VIC06,Communication,7
+VIC06,Parts availability,1
+VIC06,Price & billing,2
+VIC06,Quality & repairs,2
+VIC06,Staff & courtesy,2
+VIC06,Waiting & delays,6
+VIC07,Communication,8
+VIC07,Price & billing,4
+VIC07,Staff & courtesy,7
+VIC07,Waiting & delays,4
+VIC08,Communication,2
+VIC08,Parts availability,1
+VIC08,Price & billing,3
+VIC08,Quality & repairs,3
+VIC08,Staff & courtesy,2
+VIC08,Waiting & delays,1

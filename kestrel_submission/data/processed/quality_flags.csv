@@ -1,0 +1,873 @@
+record_id,source_file,source_sheet,source_row,flag
+390d79b9808413ae,bendigo feedback.csv,csv,4,unknown_department
+9fbd0b04587bf01a,bendigo feedback.csv,csv,5,unknown_department
+64d45f71961912b2,bendigo feedback.csv,csv,7,unknown_department
+c88a00fbb251adc7,bendigo feedback.csv,csv,8,unknown_department
+557b1fe0ab799414,bendigo feedback.csv,csv,9,unknown_department
+93747b5abd2fa08b,bendigo feedback.csv,csv,10,unknown_department
+05b51a70533c2305,bendigo feedback.csv,csv,11,unknown_department
+1fd1ff07a3be1b8c,bendigo feedback.csv,csv,12,unknown_department
+1d0bf84891976e40,bendigo feedback.csv,csv,13,unknown_department
+0598559613db5093,bendigo feedback.csv,csv,14,unknown_department
+c6e4f8e3da581e1d,bendigo feedback.csv,csv,16,unknown_department
+3ec15bb1b0de36f8,bendigo feedback.csv,csv,17,unknown_department
+1ca4ea417300fef2,bendigo feedback.csv,csv,19,unknown_department
+f37ac96d47636278,bendigo feedback.csv,csv,20,unknown_department
+e2ada097f703a390,bendigo feedback.csv,csv,21,unknown_department
+ee007e0b228a01fb,bendigo feedback.csv,csv,22,unknown_department
+8e0c50c69f373501,bendigo feedback.csv,csv,23,unknown_department
+adbe362b7e0aa1b3,bendigo feedback.csv,csv,24,unknown_department
+8fdf8508dde1a61d,bendigo feedback.csv,csv,25,unknown_department
+b40d1b35dd757e60,bendigo feedback.csv,csv,26,unknown_department
+9d49d49746ebeb3b,bendigo feedback.csv,csv,27,unknown_department
+284a741ca7856ed3,bendigo feedback.csv,csv,29,unknown_department
+0967a77309ca1ad0,bendigo feedback.csv,csv,30,unknown_department
+22f81506766938c3,bendigo feedback.csv,csv,31,unknown_department
+1a71f77923aa2d7e,bendigo feedback.csv,csv,32,unknown_department
+2d94b57949ffb797,bendigo feedback.csv,csv,33,unknown_department
+b74b4d762605c781,bendigo feedback.csv,csv,34,unknown_department
+97c16a654f1fd98e,bendigo feedback.csv,csv,35,unknown_department
+4774e722231cb8c6,bendigo feedback.csv,csv,36,unknown_department
+c0afcf8c8009f32b,bendigo feedback.csv,csv,38,unknown_department
+25cc97a4a6ffc62c,bendigo feedback.csv,csv,39,unknown_department
+835b881e8fb6bdc4,bendigo feedback.csv,csv,40,unknown_department
+a1e05c5f90e9de3d,bendigo feedback.csv,csv,42,unknown_department
+18fb9221205e0306,bendigo feedback.csv,csv,44,unknown_department
+16c0e2b72fda4340,bendigo feedback.csv,csv,47,unknown_department
+83d636235b08d11b,bendigo feedback.csv,csv,48,unknown_department
+ad309c64dde416d5,bendigo feedback.csv,csv,49,unknown_department
+c3925de7b34cd2e2,bendigo feedback.csv,csv,50,unknown_department
+d47cfec6fef0cc66,bendigo feedback.csv,csv,52,unknown_department
+dcbb2b9c07fab06f,bendigo feedback.csv,csv,54,unknown_department
+87935156f1d1ff5c,bendigo feedback.csv,csv,56,unknown_department
+568f244e89092952,bendigo feedback.csv,csv,57,unknown_department
+f20aaff000e4858e,bendigo feedback.csv,csv,58,unknown_department
+d2324720d4c3237e,bendigo feedback.csv,csv,59,unknown_department
+32856c12fbbf7065,bendigo feedback.csv,csv,61,unknown_department
+2985173854bcaab4,bendigo feedback.csv,csv,62,unknown_department
+8b5aacb4ebe6d6e8,bendigo feedback.csv,csv,63,unknown_department
+98c14782e24977ee,bendigo feedback.csv,csv,64,unknown_department
+88a038ebdd4190c4,bendigo feedback.csv,csv,66,unknown_department
+d8c6e486795a8aef,bendigo feedback.csv,csv,69,unknown_department
+e5a07bb23d038ae9,bendigo feedback.csv,csv,70,unknown_department
+07ef8f00c08d4f85,bendigo feedback.csv,csv,71,unknown_department
+c59867940156c19b,bendigo feedback.csv,csv,72,unknown_department
+71307bd54d44f0a4,bendigo feedback.csv,csv,73,unknown_department
+2b7e14bb00c390da,bendigo feedback.csv,csv,74,unknown_department
+83a1a5df4f6f7d0f,bendigo feedback.csv,csv,75,unknown_department
+c75b0b790f7e885b,bendigo feedback.csv,csv,76,unknown_department
+8935f38357d60ef6,bendigo feedback.csv,csv,77,unknown_department
+aad17d1802c24d69,bendigo feedback.csv,csv,78,unknown_department
+c6b6695ae1265a21,bendigo feedback.csv,csv,80,unknown_department
+42ad898000d3467d,bendigo feedback.csv,csv,81,unknown_department
+3d9c69f999f86d27,bendigo feedback.csv,csv,82,unknown_department
+091f0d5b560058db,bendigo feedback.csv,csv,83,unknown_department
+38f8ed046d9609e7,bendigo feedback.csv,csv,84,unknown_department
+af09a206f77d1cca,bendigo feedback.csv,csv,86,unknown_department
+65227928707862c6,bendigo feedback.csv,csv,87,unknown_department
+a3cde0c33b08867e,bendigo feedback.csv,csv,88,unknown_department
+c43e2a4fc22e5703,bendigo feedback.csv,csv,89,unknown_department
+5eeb6cbadf3553a0,bendigo feedback.csv,csv,91,unknown_department
+1f716cec58a96b2d,bendigo feedback.csv,csv,92,unknown_department
+0595a06014c50500,bendigo feedback.csv,csv,93,unknown_department
+57d8fb6dcbbb5c4c,bendigo feedback.csv,csv,94,unknown_department
+df2f91f51d4c7b7d,bendigo feedback.csv,csv,95,unknown_department
+405b3c4d9f3074bd,bendigo feedback.csv,csv,96,unknown_department
+963da9484a3b6320,bendigo feedback.csv,csv,97,unknown_department
+580f06b9421c11ba,bendigo feedback.csv,csv,98,unknown_department
+ffc1de1cc523ba91,bendigo feedback.csv,csv,100,unknown_department
+a503309b6fe26f79,bendigo feedback.csv,csv,101,unknown_department
+2920a5774db3d205,bendigo feedback.csv,csv,102,unknown_department
+dbc636fc3503ba03,bendigo feedback.csv,csv,103,unknown_department
+9b3930363720f76f,bendigo feedback.csv,csv,104,unknown_department
+0e4740814bb3d0c8,bendigo feedback.csv,csv,105,unknown_department
+51880821be87a9b8,bendigo feedback.csv,csv,106,unknown_department
+32ef66df8fbdcd4f,bendigo feedback.csv,csv,107,unknown_department
+ba1695f0ae758c7b,bendigo feedback.csv,csv,108,unknown_department
+0bc44b1935504289,bendigo feedback.csv,csv,109,unknown_department
+04660cd7aac227b3,bendigo feedback.csv,csv,110,unknown_department
+9d8cb848629ba99a,bendigo feedback.csv,csv,112,unknown_department
+450512ffb73863a8,bendigo feedback.csv,csv,113,unknown_department
+1a26ae681d29d95b,bendigo feedback.csv,csv,115,unknown_department
+c69716b6a88f85a8,bendigo feedback.csv,csv,116,unknown_department
+da71de8b2adbf6cd,bendigo feedback.csv,csv,117,unknown_department
+1c5fd6b4d03d1cd5,bendigo feedback.csv,csv,118,unknown_department
+b9b26bd34e01943b,bendigo feedback.csv,csv,119,unknown_department
+267749471bc847c9,bendigo feedback.csv,csv,123,unknown_department
+87414714c5e624d6,bendigo feedback.csv,csv,124,unknown_department
+aab560d0a12eeb6f,bendigo feedback.csv,csv,125,unknown_department
+d8fc893ce6b7aba8,bendigo feedback.csv,csv,127,unknown_department
+61dd8de0783b6a08,bendigo feedback.csv,csv,128,unknown_department
+dcad272eb944cb87,bendigo feedback.csv,csv,131,unknown_department
+18c9cae7f988b4db,bendigo feedback.csv,csv,132,unknown_department
+4f340b50e7949b90,bendigo feedback.csv,csv,133,unknown_department
+6fdc0afc83538c0b,bendigo feedback.csv,csv,134,unknown_department
+c3f2f1d9e69fb3a8,bendigo feedback.csv,csv,135,unknown_department
+dd94914379b270b5,bendigo feedback.csv,csv,137,unknown_department
+20cf53423cbab33a,bendigo feedback.csv,csv,138,unknown_department
+b0d746dee2c5940c,bendigo feedback.csv,csv,139,unknown_department
+578cdcfe989c9b82,bendigo feedback.csv,csv,140,unknown_department
+fe34135a65bd8c6f,bendigo feedback.csv,csv,142,unknown_department
+c2a82895193fb373,bendigo feedback.csv,csv,143,unknown_department
+63ca7291ea09747d,bendigo feedback.csv,csv,144,unknown_department
+83a077f7d851591c,bendigo feedback.csv,csv,145,unknown_department
+1fb63a876f2e2f75,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,3,subjective_ordinal_mapping
+065916e5c61caf41,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,4,subjective_ordinal_mapping
+4b36e228afb82574,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,5,subjective_ordinal_mapping
+adf296f4fde43b9d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,6,subjective_ordinal_mapping
+62ca79c47c192293,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,7,subjective_ordinal_mapping
+7bb6bacccbff6ab0,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,8,subjective_ordinal_mapping
+21dc2e4c12295121,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,9,subjective_ordinal_mapping
+e2b67f957a1a2990,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,10,subjective_ordinal_mapping
+dd72dce6fa78a4e8,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,11,subjective_ordinal_mapping
+22ed202a223c5185,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,12,subjective_ordinal_mapping
+4201fb1eeefcf3f0,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,13,subjective_ordinal_mapping
+0fb1574268eb7b0e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,14,subjective_ordinal_mapping
+33e87a8cc0425a5a,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,15,subjective_ordinal_mapping
+0f7aed0f62b512ea,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,16,subjective_ordinal_mapping
+d6aeacadf1fdb356,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,17,subjective_ordinal_mapping
+5b805e94c22e5527,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,18,subjective_ordinal_mapping
+ad08c788b2e90c38,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,19,subjective_ordinal_mapping
+cc434bb0be667305,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,20,subjective_ordinal_mapping
+d689fded8ec8449e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,21,subjective_ordinal_mapping
+dc329a3b3ac241cb,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,22,subjective_ordinal_mapping
+5f452e18dcf2cdda,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,23,subjective_ordinal_mapping
+fb55ff803a8ffad1,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,24,subjective_ordinal_mapping
+175c6e158da37009,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,25,subjective_ordinal_mapping
+13877cf537896b27,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,26,subjective_ordinal_mapping
+c6f0582f914efe57,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,27,subjective_ordinal_mapping
+ceb790f595246779,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,28,subjective_ordinal_mapping
+65ebc1adf9dcfcc5,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,29,subjective_ordinal_mapping
+d75f1007c166a3f1,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,30,subjective_ordinal_mapping
+9daac62ee00704a8,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,31,subjective_ordinal_mapping
+402da18309316697,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,32,subjective_ordinal_mapping
+6676e96ef3189cf5,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,33,subjective_ordinal_mapping
+06aff9c888828e43,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,34,subjective_ordinal_mapping
+b8f810617a171394,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,35,subjective_ordinal_mapping
+b10c28dd1fe73255,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,36,subjective_ordinal_mapping
+888c02ba321f099d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,37,subjective_ordinal_mapping
+ddc9a7c8995dd434,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,38,subjective_ordinal_mapping
+dd43b5390375a4b4,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,39,subjective_ordinal_mapping
+68d64f3d44c9122c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,40,subjective_ordinal_mapping
+768e602514d650b3,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,41,subjective_ordinal_mapping
+78f22e2715e5383e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,42,subjective_ordinal_mapping
+41c3033984b94fe2,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,43,subjective_ordinal_mapping
+bd99a3a6a7e0402a,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,44,subjective_ordinal_mapping
+ea46b8cbafa00b52,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,45,subjective_ordinal_mapping
+34d12f38a71c68a8,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,46,subjective_ordinal_mapping
+05c7f614f1ffeaa9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,47,subjective_ordinal_mapping
+e09e82ffe4423b2b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,48,subjective_ordinal_mapping
+daba7ebe18e72b0c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,49,subjective_ordinal_mapping
+fa5a222fc4a9f02f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,50,subjective_ordinal_mapping
+6a9cb30a09369f0b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,51,subjective_ordinal_mapping
+a444ef77f985847e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,52,subjective_ordinal_mapping
+9ab50f65b894d9b9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,53,subjective_ordinal_mapping
+0fab408dcfa636a8,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,54,subjective_ordinal_mapping
+28fc34143a09b658,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,55,subjective_ordinal_mapping
+40fba57205e4b3ce,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,56,subjective_ordinal_mapping
+dad352579ec848e5,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,57,subjective_ordinal_mapping
+e0d8c3747a254270,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,58,subjective_ordinal_mapping
+2f19c78d7d956de5,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,59,subjective_ordinal_mapping
+10d1340273c31b9f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,60,subjective_ordinal_mapping
+6cfa9e58182da5ea,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,61,subjective_ordinal_mapping
+5e3e3c50c4ba2786,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,62,subjective_ordinal_mapping
+0cf7c9c8627bc451,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,63,subjective_ordinal_mapping
+7fde280a8417b4c9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,64,subjective_ordinal_mapping
+8e736786522e306d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,65,subjective_ordinal_mapping
+fd850f334ab183af,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,66,subjective_ordinal_mapping
+73c5ff1db20efa5b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,67,subjective_ordinal_mapping
+93f2b55aaca6e43c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,68,subjective_ordinal_mapping
+0acb8e96e8f4d7f2,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,69,subjective_ordinal_mapping
+31119941049d4189,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,70,subjective_ordinal_mapping
+e8edf2dbb11fdb89,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,71,subjective_ordinal_mapping
+db521b9848ef7d77,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,72,subjective_ordinal_mapping
+304bb0efcdd12d96,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,73,subjective_ordinal_mapping
+f4b6335ccb196448,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,74,subjective_ordinal_mapping
+2a881f29c62dff0b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,75,subjective_ordinal_mapping
+32343d81c3d6c8f4,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,76,subjective_ordinal_mapping
+48a75e66cdc0ec64,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,77,subjective_ordinal_mapping
+3a879134e420955b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,78,subjective_ordinal_mapping
+7269499fc0f633ca,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,79,subjective_ordinal_mapping
+e4d5d054d6f59506,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,80,subjective_ordinal_mapping
+7e57831beb4b1bb6,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,81,subjective_ordinal_mapping
+effaf7556df86d91,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,82,subjective_ordinal_mapping
+4b1d9c8b2c0b42bb,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,83,subjective_ordinal_mapping
+8eac5443ee56b003,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,84,subjective_ordinal_mapping
+5a6bde6d38915181,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,85,subjective_ordinal_mapping
+f31cfdd87b4a0d50,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,86,subjective_ordinal_mapping
+363c91181cdffcba,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,87,subjective_ordinal_mapping
+e07735ae8383f2ea,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,88,subjective_ordinal_mapping
+9b1af0b6c7d4937b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,89,subjective_ordinal_mapping
+61bfcec7596def4f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,90,subjective_ordinal_mapping
+3920e9991b5a84aa,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,91,subjective_ordinal_mapping
+4810e5e1c01a3b15,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,92,subjective_ordinal_mapping
+ec68569e1bd1001a,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,93,subjective_ordinal_mapping
+ea76a1618c8738da,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,94,subjective_ordinal_mapping
+4a4eca5d4f0f687a,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,95,subjective_ordinal_mapping
+874f1c7399b4a423,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,96,subjective_ordinal_mapping
+6a0faca226c7d341,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,97,subjective_ordinal_mapping
+304f17a91f2d3883,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,98,subjective_ordinal_mapping
+d79fcaa87a3a6511,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,99,subjective_ordinal_mapping
+8da7eba5855c21cf,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,100,subjective_ordinal_mapping
+5656d9d23e8e2871,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,101,subjective_ordinal_mapping
+4f36349fb607eb58,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,102,subjective_ordinal_mapping
+4ce9bb0dc7877f00,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,103,subjective_ordinal_mapping
+54aa6462bd78ea86,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,104,subjective_ordinal_mapping
+8c6d85905431418e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,105,subjective_ordinal_mapping
+d7e4093d35d5fb14,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,106,subjective_ordinal_mapping
+30b482e8015d71ca,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,107,subjective_ordinal_mapping
+08fd9c9b04f892fe,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,108,subjective_ordinal_mapping
+43307070597ebbec,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,109,subjective_ordinal_mapping
+d59583dc985c7d0f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,110,subjective_ordinal_mapping
+d44c23688ecb83e9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,111,subjective_ordinal_mapping
+32619d8ea421c486,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,112,subjective_ordinal_mapping
+a0a52fd06d54d633,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,113,subjective_ordinal_mapping
+ea07c7e3d011fccd,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,114,subjective_ordinal_mapping
+833f437e67a8b6a4,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,115,subjective_ordinal_mapping
+60cc428b94dc54ea,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,116,subjective_ordinal_mapping
+32fc223e7e200bc0,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,117,subjective_ordinal_mapping
+eda1cedca161f6a0,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,118,subjective_ordinal_mapping
+fdb591818d57c635,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,119,subjective_ordinal_mapping
+ccedff80b1748dc5,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,120,subjective_ordinal_mapping
+c60996da4e1c1b8f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,121,subjective_ordinal_mapping
+ddac2524473f56ee,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,122,subjective_ordinal_mapping
+013b4b119623b3ed,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,123,subjective_ordinal_mapping
+21346a957bc303dd,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,124,subjective_ordinal_mapping
+fe9d83a7278a1629,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,125,subjective_ordinal_mapping
+303e0ce5e0a3125a,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,126,subjective_ordinal_mapping
+4a22979f9d8c5903,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,127,subjective_ordinal_mapping
+6ac7a63775a4c058,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,128,subjective_ordinal_mapping
+0f2d1fab40bdf1f9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,129,subjective_ordinal_mapping
+6657d100ac2c228c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,130,subjective_ordinal_mapping
+28c8deb96677a4ee,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,131,subjective_ordinal_mapping
+8286346c18c81c3c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,132,subjective_ordinal_mapping
+17985fc98d8c6e2d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,133,subjective_ordinal_mapping
+9497a1ae5933fd83,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,134,subjective_ordinal_mapping
+2a9bebcb34f0210c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,135,subjective_ordinal_mapping
+fdd4e9bd87ec8f7f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,136,subjective_ordinal_mapping
+5ad87a9c53428e8b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,137,subjective_ordinal_mapping
+e2b86405474651f1,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,138,subjective_ordinal_mapping
+c6b522c98fc651b8,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,139,subjective_ordinal_mapping
+7e32ddf4553552e7,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,140,subjective_ordinal_mapping
+011d068d79309c1c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,141,subjective_ordinal_mapping
+da87201e6ffbf6de,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,142,subjective_ordinal_mapping
+99979b80d0dbc17e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,143,subjective_ordinal_mapping
+992242fe82063d39,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,144,subjective_ordinal_mapping
+3c701bed850bedea,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,145,subjective_ordinal_mapping
+bd230d481b5b3ed7,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,146,subjective_ordinal_mapping
+5fa5ce6fd5c42135,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,147,subjective_ordinal_mapping
+2e02817f24a0189c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,148,subjective_ordinal_mapping
+4e214a6e20e1f173,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,149,subjective_ordinal_mapping
+4da42ea258197d9e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,150,subjective_ordinal_mapping
+4d0190cb73c1629e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,151,subjective_ordinal_mapping
+8df9a27db0f92c7e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,152,subjective_ordinal_mapping
+6ba355213210a55c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,153,subjective_ordinal_mapping
+7368d9fdd85ca1aa,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,154,subjective_ordinal_mapping
+acb03b941fcbdb6a,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,155,subjective_ordinal_mapping
+d5f75acba2b4764b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,156,subjective_ordinal_mapping
+e536ef8fefd92eba,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,157,subjective_ordinal_mapping
+5f4a0537a79b0b48,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,158,subjective_ordinal_mapping
+16043b4083d2dcd7,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,159,subjective_ordinal_mapping
+db7bc5402f5f9f4b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,160,subjective_ordinal_mapping
+9b8c1484a7f4061e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,161,subjective_ordinal_mapping
+f315d14baf9bc496,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,162,subjective_ordinal_mapping
+758497c107217ced,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,163,subjective_ordinal_mapping
+920bc50db6618826,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,164,subjective_ordinal_mapping
+2d55b9bf3610dfee,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,165,subjective_ordinal_mapping
+769fe7adfa52b0ce,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,166,subjective_ordinal_mapping
+61e0e9e9dfb94344,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,167,subjective_ordinal_mapping
+3f939f6696f0c257,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,168,subjective_ordinal_mapping
+1987757576a6307f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,169,subjective_ordinal_mapping
+4ffc3f9dd5e54308,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,170,subjective_ordinal_mapping
+a2b837406c281fe0,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,171,subjective_ordinal_mapping
+5aa51e8282e7d8f0,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,172,subjective_ordinal_mapping
+f5c6af8d2b6b76c7,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,173,subjective_ordinal_mapping
+946a1dacbc05e988,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,174,subjective_ordinal_mapping
+44344ccba3e178b9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,175,subjective_ordinal_mapping
+70f853775764b6d4,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,176,subjective_ordinal_mapping
+2011e12a0dc08a14,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,177,subjective_ordinal_mapping
+dd7e360c34384048,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,178,subjective_ordinal_mapping
+59815f881a1b87e0,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,179,subjective_ordinal_mapping
+3ea65debc825fd05,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,180,subjective_ordinal_mapping
+188033084aefa634,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,181,subjective_ordinal_mapping
+8bcc5e4356bb9937,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,182,subjective_ordinal_mapping
+e7803807793153e9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,183,subjective_ordinal_mapping
+71835ca4b705c204,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,184,subjective_ordinal_mapping
+3a1730656059c972,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,185,subjective_ordinal_mapping
+55d550ffcfd6b151,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,186,subjective_ordinal_mapping
+7df5794fbc6994d9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,187,subjective_ordinal_mapping
+e9424ea759f79e00,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,188,subjective_ordinal_mapping
+e6a987847a99bacc,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,189,subjective_ordinal_mapping
+2be1a1e846abd04d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,190,subjective_ordinal_mapping
+b0d240f71c120609,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,191,subjective_ordinal_mapping
+c019c8ca73938aa2,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,192,subjective_ordinal_mapping
+a2eb2ee475ba2156,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,193,subjective_ordinal_mapping
+0cb41f4424f77f29,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,194,subjective_ordinal_mapping
+a1c73ea421fb7c76,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,195,subjective_ordinal_mapping
+cccac3803039ffc4,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,196,subjective_ordinal_mapping
+189030def52dda95,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,197,subjective_ordinal_mapping
+dc9fb311ba57a2f9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,198,subjective_ordinal_mapping
+73c37b6343f44e80,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,199,subjective_ordinal_mapping
+87bdaf90519754e3,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,200,subjective_ordinal_mapping
+ee16c9d3e25965dd,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,201,subjective_ordinal_mapping
+57678531a4c26b13,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,202,subjective_ordinal_mapping
+c3f94eb4844adb65,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,203,subjective_ordinal_mapping
+90eb30acb2c1df1c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,204,subjective_ordinal_mapping
+bad2ab66cf0b60c1,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,205,subjective_ordinal_mapping
+4efc6209dc5cfaab,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,206,subjective_ordinal_mapping
+c0a83ad5e13e3bc4,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,207,subjective_ordinal_mapping
+4de5228ff8b62312,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,208,subjective_ordinal_mapping
+a16c74c0bc82da3d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,209,subjective_ordinal_mapping
+7c48ae05e8f93bdb,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,210,subjective_ordinal_mapping
+5649ccb4d7e31f81,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,211,subjective_ordinal_mapping
+28ec742e2283aaf9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,212,subjective_ordinal_mapping
+7bbe0f0813a9507e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,213,subjective_ordinal_mapping
+41fbf9441ce18c84,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,214,subjective_ordinal_mapping
+64ab38896bcc73ff,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,215,subjective_ordinal_mapping
+fec9b9847ecece4d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,216,subjective_ordinal_mapping
+fc828de849eeaa7d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,217,subjective_ordinal_mapping
+d9d4bc30933be682,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,218,subjective_ordinal_mapping
+c856374061a7fd8d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,219,subjective_ordinal_mapping
+39c36a9037205eab,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,220,subjective_ordinal_mapping
+cd774ce88c0972e5,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,221,subjective_ordinal_mapping
+c230c8172ab1b3cb,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,222,subjective_ordinal_mapping
+749cdc4e81fdc0fa,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,223,subjective_ordinal_mapping
+302bbdc6dddae96b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,224,subjective_ordinal_mapping
+d321a32329e0bff2,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,225,subjective_ordinal_mapping
+f09810a3c98d80c7,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,226,subjective_ordinal_mapping
+b7f096d64a57d444,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,227,subjective_ordinal_mapping
+75145b25745add39,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,228,subjective_ordinal_mapping
+f427c057c6e27c1b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,229,subjective_ordinal_mapping
+01716b97ddfa7550,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,230,subjective_ordinal_mapping
+36c9d136d3fe5cbd,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,231,subjective_ordinal_mapping
+b0d5ecc0650c661c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,232,subjective_ordinal_mapping
+9db42e83c458a35e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,233,subjective_ordinal_mapping
+d0459111ce920a27,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,234,subjective_ordinal_mapping
+1d6127c846d3626c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,235,subjective_ordinal_mapping
+02411de534372095,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,236,subjective_ordinal_mapping
+d122d6d3e0e5f203,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,237,subjective_ordinal_mapping
+8d6e4b238f9118ba,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,238,subjective_ordinal_mapping
+4de6511fc16366bf,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,239,subjective_ordinal_mapping
+6652fbb2b2535469,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,240,subjective_ordinal_mapping
+17819dc35807ac95,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,241,subjective_ordinal_mapping
+d3e19b8451c715a2,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,242,subjective_ordinal_mapping
+2a4a6f185134d565,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,243,subjective_ordinal_mapping
+f2a29a6c041d15b4,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,244,subjective_ordinal_mapping
+d26c2cb126424f82,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,245,subjective_ordinal_mapping
+b036611efdb02991,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,246,subjective_ordinal_mapping
+e2a51c474b63e265,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,247,subjective_ordinal_mapping
+1164fc3326507f9b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,248,subjective_ordinal_mapping
+abcfb9620ad136a5,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,249,subjective_ordinal_mapping
+172c229a609a6e69,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,250,subjective_ordinal_mapping
+ee939787f34775af,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,251,subjective_ordinal_mapping
+159f1aa871dab2e3,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,252,subjective_ordinal_mapping
+d471395437ba6b3b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,253,subjective_ordinal_mapping
+a17c824a83c2574f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,254,subjective_ordinal_mapping
+d56f17fe84d069a6,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,255,subjective_ordinal_mapping
+c38c59151708e1a2,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,256,subjective_ordinal_mapping
+002017ac211f9215,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,257,subjective_ordinal_mapping
+80dd02756ff854c5,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,258,subjective_ordinal_mapping
+5494519e2e523e58,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,259,subjective_ordinal_mapping
+0f99aa0b04f03827,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,260,subjective_ordinal_mapping
+e3ec174629cf07fa,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,261,subjective_ordinal_mapping
+854163695d5f0011,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,262,subjective_ordinal_mapping
+cfa08c6d801e3529,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,263,subjective_ordinal_mapping
+b9611403fbda828e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,264,subjective_ordinal_mapping
+7f32f618cc69e3ce,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,265,subjective_ordinal_mapping
+5784e5b618d57a1d,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,266,subjective_ordinal_mapping
+a8609ccdb8409891,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,267,subjective_ordinal_mapping
+298d559919b9c233,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,268,subjective_ordinal_mapping
+62cd510c3cb4c6b2,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,269,subjective_ordinal_mapping
+da8316f62049ca95,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,270,subjective_ordinal_mapping
+bf31dc959a8d1485,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,271,subjective_ordinal_mapping
+06312c5b61911b6e,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,272,subjective_ordinal_mapping
+e0b42afc6a535e2c,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,273,subjective_ordinal_mapping
+4e7f428f782abbe3,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,274,subjective_ordinal_mapping
+2ac488a2219dfdc9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,275,subjective_ordinal_mapping
+e86e0661e2675b0b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,276,subjective_ordinal_mapping
+29e6fad1767220c0,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,277,subjective_ordinal_mapping
+04c1e0e0544f1fc8,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,278,subjective_ordinal_mapping
+fd91b6d6df455e12,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,279,subjective_ordinal_mapping
+d5cc387cb04ee9b9,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,280,subjective_ordinal_mapping
+c0db04d8c47dfa48,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,281,subjective_ordinal_mapping
+18e50d9f8d5aafe2,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,282,subjective_ordinal_mapping
+243b8124ad7284e7,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,283,subjective_ordinal_mapping
+bd2cf8687192cca8,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,284,subjective_ordinal_mapping
+273024235d3d0cde,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,285,subjective_ordinal_mapping
+23a5424a80bb0f2b,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,286,subjective_ordinal_mapping
+ccd160f8c6618050,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,287,subjective_ordinal_mapping
+1df11bacf4931b1f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,288,subjective_ordinal_mapping
+7f2c246e3fd74b94,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,289,subjective_ordinal_mapping
+660e44c88d71bea4,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,290,subjective_ordinal_mapping
+6acef64db6b136fd,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,291,subjective_ordinal_mapping
+2224ab0d4381b34f,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,292,subjective_ordinal_mapping
+e3824514a9aac482,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,293,subjective_ordinal_mapping
+3686a3bbd722d4de,Ballarat - Customer Satisfaction.xlsx,xl/worksheets/sheet1.xml,294,subjective_ordinal_mapping
+76adf3093d8a2828,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,2,superseded_file
+76adf3093d8a2828,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,2,duplicate_response_id
+2b3051ffdd0d774e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,3,superseded_file
+2b3051ffdd0d774e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,3,duplicate_response_id
+480ed947b08f3383,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,4,superseded_file
+480ed947b08f3383,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,4,duplicate_response_id
+9d5cacd23dfb2749,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,5,superseded_file
+9d5cacd23dfb2749,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,5,duplicate_response_id
+95b4b15948a90de3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,6,superseded_file
+95b4b15948a90de3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,6,duplicate_response_id
+2784ba6e48cc7a78,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,7,superseded_file
+2784ba6e48cc7a78,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,7,duplicate_response_id
+b337f67e036105f3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,8,superseded_file
+b337f67e036105f3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,8,duplicate_response_id
+bd6aa8ce03b67c67,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,9,superseded_file
+bd6aa8ce03b67c67,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,9,duplicate_response_id
+909a3d3231068296,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,10,superseded_file
+909a3d3231068296,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,10,duplicate_response_id
+e484cec789e3c5a4,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,11,superseded_file
+e484cec789e3c5a4,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,11,duplicate_response_id
+a390d921ef85a16d,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,12,superseded_file
+a390d921ef85a16d,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,12,duplicate_response_id
+e404811c4b4468b6,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,13,superseded_file
+e404811c4b4468b6,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,13,duplicate_response_id
+585eceb3ff09d946,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,14,superseded_file
+585eceb3ff09d946,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,14,duplicate_response_id
+92408bac1a8ecf73,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,15,superseded_file
+92408bac1a8ecf73,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,15,duplicate_response_id
+bcccf4d703e8945e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,16,superseded_file
+bcccf4d703e8945e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,16,duplicate_response_id
+62651efd11d0a7e5,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,17,superseded_file
+62651efd11d0a7e5,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,17,duplicate_response_id
+7be70c78c3efc9ec,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,18,superseded_file
+7be70c78c3efc9ec,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,18,duplicate_response_id
+1663f3ca4dd5f8a4,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,19,superseded_file
+1663f3ca4dd5f8a4,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,19,duplicate_response_id
+6ac1574c2fce65f1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,20,superseded_file
+6ac1574c2fce65f1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,20,duplicate_response_id
+2a19cda42fffe21d,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,21,superseded_file
+2a19cda42fffe21d,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,21,duplicate_response_id
+19a2d2b28354ad23,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,22,superseded_file
+19a2d2b28354ad23,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,22,duplicate_response_id
+270a7c1e3d0b5c57,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,23,superseded_file
+270a7c1e3d0b5c57,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,23,duplicate_response_id
+ad04e55e1c25b4d3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,24,superseded_file
+ad04e55e1c25b4d3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,24,duplicate_response_id
+7c38d125b5206950,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,25,superseded_file
+7c38d125b5206950,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,25,duplicate_response_id
+e904af3f22ba4bf6,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,26,superseded_file
+e904af3f22ba4bf6,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,26,duplicate_response_id
+8386040b5f239d85,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,27,superseded_file
+8386040b5f239d85,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,27,duplicate_response_id
+6b3b8851b3948188,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,28,superseded_file
+6b3b8851b3948188,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,28,duplicate_response_id
+a9bf03598a3bcefb,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,29,superseded_file
+a9bf03598a3bcefb,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,29,duplicate_response_id
+f75c45b87deb00a0,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,30,superseded_file
+f75c45b87deb00a0,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,30,duplicate_response_id
+bf370abd0babea0f,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,31,superseded_file
+bf370abd0babea0f,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,31,duplicate_response_id
+2e48b72baa01d865,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,32,superseded_file
+2e48b72baa01d865,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,32,duplicate_response_id
+e2465ecc5e2dfa8b,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,33,superseded_file
+e2465ecc5e2dfa8b,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,33,duplicate_response_id
+cae4f3b95003cb3d,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,34,superseded_file
+cae4f3b95003cb3d,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,34,duplicate_response_id
+a73a19502b72531a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,35,superseded_file
+a73a19502b72531a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,35,duplicate_response_id
+01799e1e68a23f1c,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,36,superseded_file
+01799e1e68a23f1c,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,36,duplicate_response_id
+c719b1c5907885a5,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,37,superseded_file
+c719b1c5907885a5,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,37,duplicate_response_id
+06986527e965715e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,38,superseded_file
+06986527e965715e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,38,duplicate_response_id
+df00f11f0755a7b5,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,39,superseded_file
+df00f11f0755a7b5,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,39,duplicate_response_id
+4236eaf66fe614e6,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,40,superseded_file
+4236eaf66fe614e6,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,40,duplicate_response_id
+22d2e728fb3761fd,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,41,superseded_file
+22d2e728fb3761fd,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,41,duplicate_response_id
+cfa26d73315a0676,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,42,superseded_file
+cfa26d73315a0676,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,42,duplicate_response_id
+d89b621518b9f319,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,43,superseded_file
+d89b621518b9f319,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,43,duplicate_response_id
+da24eb83cdab6fd0,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,44,superseded_file
+da24eb83cdab6fd0,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,44,duplicate_response_id
+f95acfac0e1c7fef,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,45,superseded_file
+f95acfac0e1c7fef,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,45,duplicate_response_id
+d49a0907392b9c83,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,46,superseded_file
+d49a0907392b9c83,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,46,duplicate_response_id
+d86ffe3a67067745,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,47,superseded_file
+d86ffe3a67067745,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,47,duplicate_response_id
+792d95818bcc8c76,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,48,superseded_file
+792d95818bcc8c76,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,48,duplicate_response_id
+75900a45b4f4c9eb,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,49,superseded_file
+75900a45b4f4c9eb,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,49,duplicate_response_id
+495a0c5e03b78e59,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,50,superseded_file
+495a0c5e03b78e59,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,50,duplicate_response_id
+8c3454b93301ec9e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,51,superseded_file
+8c3454b93301ec9e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,51,duplicate_response_id
+65735709d50f9ce1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,52,superseded_file
+65735709d50f9ce1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,52,duplicate_response_id
+8b02bf235900f93b,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,53,superseded_file
+8b02bf235900f93b,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,53,duplicate_response_id
+56b59145bc864383,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,54,superseded_file
+56b59145bc864383,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,54,duplicate_response_id
+d1e8a6233afd9f3a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,55,superseded_file
+d1e8a6233afd9f3a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,55,duplicate_response_id
+874021da66636ff7,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,56,superseded_file
+874021da66636ff7,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,56,duplicate_response_id
+c242ec5ff91f3ed2,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,57,superseded_file
+c242ec5ff91f3ed2,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,57,duplicate_response_id
+5a033ec5dc7e3d43,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,58,superseded_file
+5a033ec5dc7e3d43,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,58,duplicate_response_id
+b673b46346fb35ea,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,59,superseded_file
+b673b46346fb35ea,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,59,duplicate_response_id
+b75cfdf43d3532b3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,60,superseded_file
+b75cfdf43d3532b3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,60,duplicate_response_id
+ecf7562096d191e9,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,61,superseded_file
+ecf7562096d191e9,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,61,duplicate_response_id
+6ab5d22fa582940a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,62,superseded_file
+6ab5d22fa582940a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,62,duplicate_response_id
+21616e8db61af1aa,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,63,superseded_file
+21616e8db61af1aa,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,63,duplicate_response_id
+a824c57b7a57bd81,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,64,superseded_file
+a824c57b7a57bd81,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,64,duplicate_response_id
+548ee570bd999b9e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,65,superseded_file
+548ee570bd999b9e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,65,duplicate_response_id
+3ea55e6a2ef5d46b,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,66,superseded_file
+3ea55e6a2ef5d46b,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,66,duplicate_response_id
+088bffd117378d34,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,67,superseded_file
+088bffd117378d34,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,67,duplicate_response_id
+846db600c20c2224,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,68,superseded_file
+846db600c20c2224,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,68,duplicate_response_id
+c0da24609682988c,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,69,superseded_file
+c0da24609682988c,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,69,duplicate_response_id
+0870046d949c357f,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,70,superseded_file
+0870046d949c357f,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,70,duplicate_response_id
+9a21b9e561062f49,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,71,superseded_file
+9a21b9e561062f49,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,71,duplicate_response_id
+3bc879cf9d27d3df,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,72,superseded_file
+3bc879cf9d27d3df,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,72,duplicate_response_id
+fc630b30db31f257,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,73,superseded_file
+fc630b30db31f257,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,73,duplicate_response_id
+3cf8ea7388228dbb,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,74,superseded_file
+3cf8ea7388228dbb,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,74,duplicate_response_id
+6dfe26cccfb6246a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,75,superseded_file
+6dfe26cccfb6246a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,75,duplicate_response_id
+ed3556e058dc21ae,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,76,superseded_file
+ed3556e058dc21ae,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,76,duplicate_response_id
+31e024cddd41ecc8,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,77,superseded_file
+31e024cddd41ecc8,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,77,duplicate_response_id
+35f7090d6c27ad90,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,78,superseded_file
+35f7090d6c27ad90,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,78,duplicate_response_id
+73fae8ddc31d4a25,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,79,superseded_file
+73fae8ddc31d4a25,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,79,duplicate_response_id
+65f73ae768ed96a1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,80,superseded_file
+65f73ae768ed96a1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,80,duplicate_response_id
+45991f93b20e6bac,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,81,superseded_file
+45991f93b20e6bac,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,81,duplicate_response_id
+dd1860ad328060e5,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,82,superseded_file
+dd1860ad328060e5,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,82,duplicate_response_id
+1a72722d7b61b4ac,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,83,superseded_file
+1a72722d7b61b4ac,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,83,duplicate_response_id
+9466fc28e307666e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,84,superseded_file
+9466fc28e307666e,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,84,duplicate_response_id
+d5fb927b1ecd7a21,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,85,superseded_file
+d5fb927b1ecd7a21,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,85,duplicate_response_id
+89cad8eb6ed61505,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,86,superseded_file
+89cad8eb6ed61505,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,86,duplicate_response_id
+ae5a67ac7ac6273f,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,87,superseded_file
+ae5a67ac7ac6273f,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,87,duplicate_response_id
+1c3cc5feff3010b1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,88,superseded_file
+1c3cc5feff3010b1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,88,duplicate_response_id
+5b262cb03f5d3975,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,89,superseded_file
+5b262cb03f5d3975,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,89,duplicate_response_id
+f86a864dd6c91ce3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,90,superseded_file
+f86a864dd6c91ce3,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,90,duplicate_response_id
+eed78197a3add606,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,91,superseded_file
+eed78197a3add606,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,91,duplicate_response_id
+3d453eeb0bd14138,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,92,superseded_file
+3d453eeb0bd14138,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,92,duplicate_response_id
+3c0f98e7fa9a940a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,93,superseded_file
+3c0f98e7fa9a940a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,93,duplicate_response_id
+62390f3574bc3bc1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,94,superseded_file
+62390f3574bc3bc1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,94,duplicate_response_id
+2d0157c8c0112ad7,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,95,superseded_file
+2d0157c8c0112ad7,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,95,duplicate_response_id
+536e127fee0e30a8,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,96,superseded_file
+536e127fee0e30a8,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,96,duplicate_response_id
+5f35efbfda588109,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,97,superseded_file
+5f35efbfda588109,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,97,duplicate_response_id
+f4816088eddd07c6,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,98,superseded_file
+f4816088eddd07c6,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,98,duplicate_response_id
+6d71e3f4f3b8a1a1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,99,superseded_file
+6d71e3f4f3b8a1a1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,99,duplicate_response_id
+231660b7ee0e1895,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,100,superseded_file
+231660b7ee0e1895,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,100,duplicate_response_id
+294228c54bc6abd8,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,101,superseded_file
+294228c54bc6abd8,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,101,duplicate_response_id
+f72c1cec8dfcfdce,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,102,superseded_file
+f72c1cec8dfcfdce,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,102,duplicate_response_id
+f8c12f9c94d491b2,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,103,superseded_file
+f8c12f9c94d491b2,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,103,duplicate_response_id
+fb5575ffc117ceab,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,104,superseded_file
+fb5575ffc117ceab,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,104,duplicate_response_id
+6711f6341e137130,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,105,superseded_file
+6711f6341e137130,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,105,duplicate_response_id
+366726a5dea6e880,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,106,superseded_file
+366726a5dea6e880,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,106,duplicate_response_id
+b13600f1e26d4ea1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,107,superseded_file
+b13600f1e26d4ea1,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,107,duplicate_response_id
+cabc488de0e361d0,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,108,superseded_file
+cabc488de0e361d0,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,108,duplicate_response_id
+a6cec2dabfa4e0ab,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,109,superseded_file
+a6cec2dabfa4e0ab,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,109,duplicate_response_id
+4d762b971296101a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,110,superseded_file
+4d762b971296101a,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,110,duplicate_response_id
+fb894ac8878cbaa4,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,111,superseded_file
+fb894ac8878cbaa4,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,111,duplicate_response_id
+04263539194fddea,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,112,superseded_file
+04263539194fddea,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,112,duplicate_response_id
+243eb32db59f02bf,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,113,superseded_file
+243eb32db59f02bf,Chermside Q1 2026 FINAL.xlsx,xl/worksheets/sheet1.xml,113,duplicate_response_id
+8b480c0e02a9b4bc,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,36,invalid_date
+8b480c0e02a9b4bc,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,36,unknown_department
+9ee1674710c335db,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,60,invalid_date
+9ee1674710c335db,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,60,unknown_department
+a7bb34acb0778c3c,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,88,invalid_date
+a7bb34acb0778c3c,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,88,unknown_department
+3a29c0093fbc23f4,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,107,invalid_date
+3a29c0093fbc23f4,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,107,unknown_department
+2168eb3b21e597cc,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,135,invalid_date
+2168eb3b21e597cc,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,135,unknown_department
+a091170f930c31f8,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,157,invalid_date
+a091170f930c31f8,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,157,unknown_department
+bdc42b2a23222804,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,188,invalid_date
+bdc42b2a23222804,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,188,unknown_department
+a7df218ec21653bf,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,220,invalid_date
+a7df218ec21653bf,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,220,unknown_department
+d549ca24799c06db,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,253,invalid_date
+d549ca24799c06db,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,253,unknown_department
+8c91227b48017696,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,279,invalid_date
+8c91227b48017696,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,279,unknown_department
+6d133727c833fefc,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,316,invalid_date
+6d133727c833fefc,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,316,unknown_department
+005032440fe93dc2,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,334,invalid_date
+005032440fe93dc2,Frankston_CX_tracker.xlsx,xl/worksheets/sheet1.xml,334,unknown_department
+29b93b5cd3f21fee,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,9,invalid_date
+682693ae9a992faa,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,26,invalid_date
+7f7259611b39f9ce,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,73,invalid_date
+e49e7a055cf07923,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,84,invalid_date
+fe185c0d50dc00f8,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,137,invalid_date
+6bc1d49d815491f9,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,154,invalid_date
+9ef0853e10944464,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,192,invalid_date
+a2b46dd6c1ac667a,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,248,invalid_date
+ed492c820baf0950,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,258,invalid_date
+7c8e08e4d95439d9,IPS_feedback_log.xlsx,xl/worksheets/sheet1.xml,269,invalid_date
+7c157d9ef6311e25,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,2,possible_repeat_july_august
+de9751362ca3d73d,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,3,possible_repeat_july_august
+543b39e3ad32bdca,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,4,possible_repeat_july_august
+6566a9d5655c73c1,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,5,possible_repeat_july_august
+ed91fbe7f1c4cc4e,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,6,possible_repeat_july_august
+05f9a2aa519aad83,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,7,possible_repeat_july_august
+6679c3da6a2dba8f,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,8,possible_repeat_july_august
+23decf73bbd8e976,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,9,possible_repeat_july_august
+45e29bd5735fd66c,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,10,possible_repeat_july_august
+5fb636c505e5369b,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,11,possible_repeat_july_august
+0d73fda9dd86e69d,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,12,possible_repeat_july_august
+68b7aade279a1045,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,13,possible_repeat_july_august
+5a206801e9b77bc0,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,14,possible_repeat_july_august
+30860805f473980a,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,15,possible_repeat_july_august
+4f96bd98f5e43d30,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,16,possible_repeat_july_august
+0635324d88c6b695,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,17,possible_repeat_july_august
+74189252f1c7cbe6,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,18,possible_repeat_july_august
+7eaa4f69c9a2393c,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,19,possible_repeat_july_august
+6341da2dc6148c58,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,20,possible_repeat_july_august
+5a021e36e5f168f8,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,21,possible_repeat_july_august
+3fa01f553bb5e813,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,22,possible_repeat_july_august
+fcc6c8146bc92bfd,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,23,possible_repeat_july_august
+f6b0d83855e8f1d7,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,24,possible_repeat_july_august
+0b9fb7eee30e6faf,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,25,possible_repeat_july_august
+a737349f4c2daca7,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,26,possible_repeat_july_august
+cabaa768ee1c3887,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,27,possible_repeat_july_august
+5d4b0c5b97e74702,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,28,possible_repeat_july_august
+5a43fea02c173ece,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,29,possible_repeat_july_august
+156f5183ce393917,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,30,possible_repeat_july_august
+f34d79b8c5912f2e,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,31,possible_repeat_july_august
+06e8d0950c5ac5d9,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,32,possible_repeat_july_august
+cf15f14fced4a8d7,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,33,possible_repeat_july_august
+8d6b153cf0db549a,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,34,possible_repeat_july_august
+de004875e8e4ee3f,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,35,possible_repeat_july_august
+deab90f83cb4d778,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,36,possible_repeat_july_august
+78126d49f3b6986b,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,37,possible_repeat_july_august
+99a31d9c93462a1e,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,38,possible_repeat_july_august
+f5188c7832ecaf9b,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,39,possible_repeat_july_august
+a882833c4254002e,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,40,possible_repeat_july_august
+ae3087e8a9c9ede0,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,41,possible_repeat_july_august
+fb09236aa2a73b8f,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,42,possible_repeat_july_august
+fe4dc46159aab2b9,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,43,possible_repeat_july_august
+e19017a69e0978a4,Penrith Feedback.xlsx,xl/worksheets/sheet9.xml,44,possible_repeat_july_august
+63ddcb2fc297379e,Ringwood feedback Q1 2026.xlsx,xl/worksheets/sheet1.xml,36,invalid_date
+63ddcb2fc297379e,Ringwood feedback Q1 2026.xlsx,xl/worksheets/sheet1.xml,36,missing_rating
+63ddcb2fc297379e,Ringwood feedback Q1 2026.xlsx,xl/worksheets/sheet1.xml,36,unknown_department
+739bd8a833b98919,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,2,date_outside_period
+739bd8a833b98919,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,2,post_closure
+9cfdc3b4c73f966f,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,4,date_outside_period
+9cfdc3b4c73f966f,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,4,post_closure
+e9eb36437e51c34a,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,11,date_outside_period
+e9eb36437e51c34a,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,11,post_closure
+8215c8123f06c4fb,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,14,date_outside_period
+8215c8123f06c4fb,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,14,post_closure
+91c581b1e2377fca,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,16,date_outside_period
+91c581b1e2377fca,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,16,post_closure
+af69910ad44f6698,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,18,date_outside_period
+af69910ad44f6698,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,18,post_closure
+d6bed75c628c3d22,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,55,invalid_date
+d6bed75c628c3d22,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,55,missing_rating
+d6bed75c628c3d22,Shepparton feedback FINAL - site closed.xlsx,xl/worksheets/sheet1.xml,55,unknown_department
+c69e6ee43a650920,Southport Feedback Tracker.xlsx,xl/worksheets/sheet1.xml,23,date_outside_period
+ea85f8550688dcb4,Southport Feedback Tracker.xlsx,xl/worksheets/sheet1.xml,167,missing_date
+4f93d68aacd42887,Southport Feedback Tracker.xlsx,xl/worksheets/sheet1.xml,192,invalid_date
+4f93d68aacd42887,Southport Feedback Tracker.xlsx,xl/worksheets/sheet1.xml,192,missing_rating
+4f93d68aacd42887,Southport Feedback Tracker.xlsx,xl/worksheets/sheet1.xml,192,unknown_department
+b77e54ac82e5afc8,Southport Feedback Tracker.xlsx,xl/worksheets/sheet1.xml,196,invalid_date
+68b21bedd7370c22,Tamworth.xlsx,xl/worksheets/sheet1.xml,2,subjective_ordinal_mapping
+3477660d7a1ad405,Tamworth.xlsx,xl/worksheets/sheet1.xml,3,subjective_ordinal_mapping
+4adcd6aac40e3756,Tamworth.xlsx,xl/worksheets/sheet1.xml,4,subjective_ordinal_mapping
+60cd9dd37f1698fe,Tamworth.xlsx,xl/worksheets/sheet1.xml,5,subjective_ordinal_mapping
+e2dd3f006a203c10,Tamworth.xlsx,xl/worksheets/sheet1.xml,6,subjective_ordinal_mapping
+2af06942b216c572,Tamworth.xlsx,xl/worksheets/sheet1.xml,7,subjective_ordinal_mapping
+c22120f73ffeacf6,Tamworth.xlsx,xl/worksheets/sheet1.xml,8,subjective_ordinal_mapping
+eef77f87cf0019e5,Tamworth.xlsx,xl/worksheets/sheet1.xml,9,subjective_ordinal_mapping
+c7c41e82105c55f3,Tamworth.xlsx,xl/worksheets/sheet1.xml,10,subjective_ordinal_mapping
+a47c0cb4a15a2bb0,Tamworth.xlsx,xl/worksheets/sheet1.xml,11,subjective_ordinal_mapping
+6a97c8bf80c2059e,Tamworth.xlsx,xl/worksheets/sheet1.xml,12,subjective_ordinal_mapping
+e19efdef7db6335a,Tamworth.xlsx,xl/worksheets/sheet1.xml,13,subjective_ordinal_mapping
+62003681dff3da14,Tamworth.xlsx,xl/worksheets/sheet1.xml,14,subjective_ordinal_mapping
+99aa9bb32f4186da,Tamworth.xlsx,xl/worksheets/sheet1.xml,15,missing_rating
+de104eb9207ec610,Tamworth.xlsx,xl/worksheets/sheet1.xml,16,subjective_ordinal_mapping
+f2f2db8593e97db3,Tamworth.xlsx,xl/worksheets/sheet1.xml,17,subjective_ordinal_mapping
+eedfde8b138e9e11,Tamworth.xlsx,xl/worksheets/sheet1.xml,18,subjective_ordinal_mapping
+8d1bdede9290d050,Tamworth.xlsx,xl/worksheets/sheet1.xml,19,subjective_ordinal_mapping
+276632e1b4c8d013,Tamworth.xlsx,xl/worksheets/sheet1.xml,20,subjective_ordinal_mapping
+8dbcfca848d66152,Tamworth.xlsx,xl/worksheets/sheet1.xml,21,subjective_ordinal_mapping
+cbf4350fcb4b179b,Tamworth.xlsx,xl/worksheets/sheet1.xml,22,subjective_ordinal_mapping
+0f08b369479c6369,Tamworth.xlsx,xl/worksheets/sheet1.xml,23,subjective_ordinal_mapping
+7ecd104a1ec089c8,Tamworth.xlsx,xl/worksheets/sheet1.xml,24,subjective_ordinal_mapping
+79525c955c5a2f91,Tamworth.xlsx,xl/worksheets/sheet1.xml,25,subjective_ordinal_mapping
+1fcdb5ccca937d02,Tamworth.xlsx,xl/worksheets/sheet1.xml,26,subjective_ordinal_mapping
+8fd73aecbc08de8f,Tamworth.xlsx,xl/worksheets/sheet1.xml,27,subjective_ordinal_mapping
+026b534bc551a89b,Tamworth.xlsx,xl/worksheets/sheet1.xml,28,subjective_ordinal_mapping
+d7576957569a79fd,Tamworth.xlsx,xl/worksheets/sheet1.xml,29,missing_rating
+8c8c5bcf9a87583d,Tamworth.xlsx,xl/worksheets/sheet1.xml,30,subjective_ordinal_mapping
+d628ae035839ed57,Tamworth.xlsx,xl/worksheets/sheet1.xml,31,subjective_ordinal_mapping
+8e46396754722bd2,Tamworth.xlsx,xl/worksheets/sheet1.xml,32,subjective_ordinal_mapping
+ae0ff7fbed17fa4a,Tamworth.xlsx,xl/worksheets/sheet1.xml,33,subjective_ordinal_mapping
+9a9c94fe8ed8c088,Tamworth.xlsx,xl/worksheets/sheet1.xml,34,missing_rating
+74205c7158290db9,Tamworth.xlsx,xl/worksheets/sheet1.xml,35,subjective_ordinal_mapping
+ebe14a2b14b331ed,Tamworth.xlsx,xl/worksheets/sheet1.xml,36,subjective_ordinal_mapping
+09d33e15da6db54d,Tamworth.xlsx,xl/worksheets/sheet1.xml,37,subjective_ordinal_mapping
+51dea32f95f3df7f,Tamworth.xlsx,xl/worksheets/sheet1.xml,38,subjective_ordinal_mapping
+98dbba3ee20f028e,Tamworth.xlsx,xl/worksheets/sheet1.xml,39,subjective_ordinal_mapping
+c26b84bcb69788a0,Tamworth.xlsx,xl/worksheets/sheet1.xml,40,subjective_ordinal_mapping
+281dc39a74d22e8f,Tamworth.xlsx,xl/worksheets/sheet1.xml,41,subjective_ordinal_mapping
+00b3c0fe94cb385c,Tamworth.xlsx,xl/worksheets/sheet1.xml,42,subjective_ordinal_mapping
+7a94657abdd36ba3,Tamworth.xlsx,xl/worksheets/sheet1.xml,43,subjective_ordinal_mapping
+4429e3f04bfc1a13,Tamworth.xlsx,xl/worksheets/sheet1.xml,44,subjective_ordinal_mapping
+8055278df3f9ccc4,Tamworth.xlsx,xl/worksheets/sheet1.xml,45,subjective_ordinal_mapping
+928e01d44bdbbfd9,Tamworth.xlsx,xl/worksheets/sheet1.xml,46,missing_rating
+4f3affa1a0ca41a7,Tamworth.xlsx,xl/worksheets/sheet1.xml,47,subjective_ordinal_mapping
+8a400b5e99f33e65,Tamworth.xlsx,xl/worksheets/sheet1.xml,48,subjective_ordinal_mapping
+97e52e3fa70288c0,Tamworth.xlsx,xl/worksheets/sheet1.xml,49,subjective_ordinal_mapping
+d1fc2a1ff050445f,Tamworth.xlsx,xl/worksheets/sheet1.xml,50,subjective_ordinal_mapping
+917101868a941b36,Tamworth.xlsx,xl/worksheets/sheet1.xml,51,subjective_ordinal_mapping
+a8337f8c84d654d7,Tamworth.xlsx,xl/worksheets/sheet1.xml,52,subjective_ordinal_mapping
+ee7ece095f8c8191,Tamworth.xlsx,xl/worksheets/sheet1.xml,53,subjective_ordinal_mapping
+2625a7355022f1ca,Tamworth.xlsx,xl/worksheets/sheet1.xml,54,subjective_ordinal_mapping
+e700d7f1c3d335a9,Tamworth.xlsx,xl/worksheets/sheet1.xml,55,subjective_ordinal_mapping
+7db94a595b1aa801,Tamworth.xlsx,xl/worksheets/sheet1.xml,56,missing_rating
+6350ab9a3cb69508,Tamworth.xlsx,xl/worksheets/sheet1.xml,57,subjective_ordinal_mapping
+5972ee83182a646c,Tamworth.xlsx,xl/worksheets/sheet1.xml,58,subjective_ordinal_mapping
+71c3edfd81650db1,Tamworth.xlsx,xl/worksheets/sheet1.xml,59,subjective_ordinal_mapping
+cf54c460730ebd79,Tamworth.xlsx,xl/worksheets/sheet1.xml,60,subjective_ordinal_mapping
+3a6f1a8f503ad54f,Tamworth.xlsx,xl/worksheets/sheet1.xml,61,subjective_ordinal_mapping
+f3ba6d9c330f7900,Tamworth.xlsx,xl/worksheets/sheet1.xml,62,subjective_ordinal_mapping
+fd3f48a371cf246a,Tamworth.xlsx,xl/worksheets/sheet1.xml,63,subjective_ordinal_mapping
+db83aa190131652d,Tamworth.xlsx,xl/worksheets/sheet1.xml,64,subjective_ordinal_mapping
+41d52f140357f660,Tamworth.xlsx,xl/worksheets/sheet1.xml,65,subjective_ordinal_mapping
+9190684eaf2f74be,Tamworth.xlsx,xl/worksheets/sheet1.xml,66,subjective_ordinal_mapping
+c35baa3f9d8c347e,Tamworth.xlsx,xl/worksheets/sheet1.xml,67,subjective_ordinal_mapping
+39dea4e23860b1c5,Tamworth.xlsx,xl/worksheets/sheet1.xml,68,subjective_ordinal_mapping
+ffe914a2f4b21ef6,Tamworth.xlsx,xl/worksheets/sheet1.xml,69,subjective_ordinal_mapping
+044b4c4f8dad1547,Tamworth.xlsx,xl/worksheets/sheet1.xml,70,subjective_ordinal_mapping
+9c7681146800d659,Tamworth.xlsx,xl/worksheets/sheet1.xml,71,subjective_ordinal_mapping
+8b3f703da39855d7,Tamworth.xlsx,xl/worksheets/sheet1.xml,72,subjective_ordinal_mapping
+033f5617eaf400e8,Tamworth.xlsx,xl/worksheets/sheet1.xml,73,subjective_ordinal_mapping
+fc05906ed82524ad,Tamworth.xlsx,xl/worksheets/sheet1.xml,74,subjective_ordinal_mapping
+8fdd2ae9e46e0e44,Tamworth.xlsx,xl/worksheets/sheet1.xml,75,subjective_ordinal_mapping
+9dccef1ca32aa22e,Tamworth.xlsx,xl/worksheets/sheet1.xml,76,subjective_ordinal_mapping
+36f1fdec9c9d63de,Tamworth.xlsx,xl/worksheets/sheet1.xml,77,subjective_ordinal_mapping
+32457ff2f665abd6,Tamworth.xlsx,xl/worksheets/sheet1.xml,78,subjective_ordinal_mapping
+851bc78510a8d637,Tamworth.xlsx,xl/worksheets/sheet1.xml,79,subjective_ordinal_mapping
+d3057993c385416e,Tamworth.xlsx,xl/worksheets/sheet1.xml,80,subjective_ordinal_mapping
+1157758b3971304a,Tamworth.xlsx,xl/worksheets/sheet1.xml,81,subjective_ordinal_mapping
+481f5eb2c4896d1c,Tamworth.xlsx,xl/worksheets/sheet1.xml,82,subjective_ordinal_mapping
+8b72b403bd003431,Tamworth.xlsx,xl/worksheets/sheet1.xml,83,subjective_ordinal_mapping
+7b4aab8b7c0d76ea,Tamworth.xlsx,xl/worksheets/sheet1.xml,84,subjective_ordinal_mapping
+1c5888ec0af1e291,Tamworth.xlsx,xl/worksheets/sheet1.xml,85,subjective_ordinal_mapping
+e5bab193f6cfa9b2,Tamworth.xlsx,xl/worksheets/sheet1.xml,86,subjective_ordinal_mapping
+07bbc646e1a60388,Tamworth.xlsx,xl/worksheets/sheet1.xml,87,subjective_ordinal_mapping
+2184138d5a03286b,Tamworth.xlsx,xl/worksheets/sheet1.xml,88,subjective_ordinal_mapping
+86a8f5378b24872d,Tamworth.xlsx,xl/worksheets/sheet1.xml,89,subjective_ordinal_mapping
+2f8d633f65151b8c,Tamworth.xlsx,xl/worksheets/sheet1.xml,90,missing_rating
+e4f8b218effd0912,Tamworth.xlsx,xl/worksheets/sheet1.xml,91,subjective_ordinal_mapping
+eac747ccfd87230d,Tamworth.xlsx,xl/worksheets/sheet1.xml,92,subjective_ordinal_mapping
+c62959d5b883038c,Tamworth.xlsx,xl/worksheets/sheet1.xml,93,subjective_ordinal_mapping
+4f2b102932e71f3f,Tamworth.xlsx,xl/worksheets/sheet1.xml,94,subjective_ordinal_mapping
+f781e4b6d38eb3aa,Tamworth.xlsx,xl/worksheets/sheet1.xml,95,subjective_ordinal_mapping
+12320b4dcdaffb22,Tamworth.xlsx,xl/worksheets/sheet1.xml,96,subjective_ordinal_mapping
+2628c8554dc94173,Tamworth.xlsx,xl/worksheets/sheet1.xml,97,subjective_ordinal_mapping
+657927b1741c1d5d,Tamworth.xlsx,xl/worksheets/sheet1.xml,98,subjective_ordinal_mapping
+b057ab7cabc279ac,Tamworth.xlsx,xl/worksheets/sheet1.xml,99,subjective_ordinal_mapping
+6ed12846da1ae950,Tamworth.xlsx,xl/worksheets/sheet1.xml,100,subjective_ordinal_mapping
+6a1bfac4a56e1a0a,Tamworth.xlsx,xl/worksheets/sheet1.xml,101,subjective_ordinal_mapping
+7c4550c5d9bb7f4d,Tamworth.xlsx,xl/worksheets/sheet1.xml,102,subjective_ordinal_mapping
+1732ebc58b051f69,Tamworth.xlsx,xl/worksheets/sheet1.xml,103,subjective_ordinal_mapping
+5d82851e591f2f03,Tamworth.xlsx,xl/worksheets/sheet1.xml,104,subjective_ordinal_mapping
+72f8d99a86f6726c,Tamworth.xlsx,xl/worksheets/sheet1.xml,105,subjective_ordinal_mapping
+2439e5796f70567b,Tamworth.xlsx,xl/worksheets/sheet1.xml,106,subjective_ordinal_mapping
+0ed90263e1e07f5b,Tamworth.xlsx,xl/worksheets/sheet1.xml,107,subjective_ordinal_mapping
+e597fa1471e707df,Tamworth.xlsx,xl/worksheets/sheet1.xml,108,subjective_ordinal_mapping
+38e826feb7f41d5c,Tamworth.xlsx,xl/worksheets/sheet1.xml,109,subjective_ordinal_mapping
+a4d5f1a75380ce75,Tamworth.xlsx,xl/worksheets/sheet1.xml,110,missing_rating
+772a569e470066bc,Tamworth.xlsx,xl/worksheets/sheet1.xml,111,subjective_ordinal_mapping
+1be9e2ca6d1f6d11,Tamworth.xlsx,xl/worksheets/sheet1.xml,112,subjective_ordinal_mapping
+417c9b04111ddb44,Tamworth.xlsx,xl/worksheets/sheet1.xml,113,subjective_ordinal_mapping
+974ec0a4046b0cda,Tamworth.xlsx,xl/worksheets/sheet1.xml,114,subjective_ordinal_mapping
+4ebc6585da396908,Tamworth.xlsx,xl/worksheets/sheet1.xml,115,subjective_ordinal_mapping
+3a32e22878c68395,Tamworth.xlsx,xl/worksheets/sheet1.xml,116,subjective_ordinal_mapping
+06d203a8c30486b1,Tamworth.xlsx,xl/worksheets/sheet1.xml,117,subjective_ordinal_mapping
+84ef1911f6ed33f4,Tamworth.xlsx,xl/worksheets/sheet1.xml,118,subjective_ordinal_mapping
+8d415246012119d1,Tamworth.xlsx,xl/worksheets/sheet1.xml,119,subjective_ordinal_mapping
+57840d80e327c153,Tamworth.xlsx,xl/worksheets/sheet1.xml,120,subjective_ordinal_mapping
+92a1fac7e76aaef7,Tamworth.xlsx,xl/worksheets/sheet1.xml,121,subjective_ordinal_mapping
+2d976c339c88fc20,Tamworth.xlsx,xl/worksheets/sheet1.xml,122,missing_rating
+a6920ff1467fe21b,Tamworth.xlsx,xl/worksheets/sheet1.xml,123,subjective_ordinal_mapping
+3d9c082a58eb4b30,Tamworth.xlsx,xl/worksheets/sheet1.xml,124,subjective_ordinal_mapping
+49b9bbb591d59520,Tamworth.xlsx,xl/worksheets/sheet1.xml,125,subjective_ordinal_mapping
+a72d8344b2bb4916,Tamworth.xlsx,xl/worksheets/sheet1.xml,126,subjective_ordinal_mapping
+a88f01c7f7f8159a,Tamworth.xlsx,xl/worksheets/sheet1.xml,127,subjective_ordinal_mapping
+ba3bf5dfbd55e7ea,Tamworth.xlsx,xl/worksheets/sheet1.xml,128,subjective_ordinal_mapping
+fb59ba6370acf328,Tamworth.xlsx,xl/worksheets/sheet1.xml,129,subjective_ordinal_mapping
+09d897f216805105,Tamworth.xlsx,xl/worksheets/sheet1.xml,130,subjective_ordinal_mapping
+81bd27fb878d1e60,Tamworth.xlsx,xl/worksheets/sheet1.xml,131,subjective_ordinal_mapping
+8ee32d886bea06bd,Tamworth.xlsx,xl/worksheets/sheet1.xml,132,subjective_ordinal_mapping
+6742d52579903c05,Tamworth.xlsx,xl/worksheets/sheet1.xml,133,subjective_ordinal_mapping
+205e887f59c5302b,Tamworth.xlsx,xl/worksheets/sheet1.xml,134,subjective_ordinal_mapping
+0d77bf8fb01c5ac3,Tamworth.xlsx,xl/worksheets/sheet1.xml,135,missing_rating
+055707fff003a79d,Tamworth.xlsx,xl/worksheets/sheet1.xml,136,subjective_ordinal_mapping
+82c3746dd9b42dab,Tamworth.xlsx,xl/worksheets/sheet1.xml,137,subjective_ordinal_mapping
+dcb2750ae2f2f91e,Tamworth.xlsx,xl/worksheets/sheet1.xml,138,subjective_ordinal_mapping
+ff2613cf20946112,Tamworth.xlsx,xl/worksheets/sheet1.xml,139,missing_rating
+8b61a4de0ea74688,Tamworth.xlsx,xl/worksheets/sheet1.xml,140,subjective_ordinal_mapping
+05cbc1a41b4a0e2c,Tamworth.xlsx,xl/worksheets/sheet1.xml,141,subjective_ordinal_mapping
+71f8eaaf8ae9157e,Tamworth.xlsx,xl/worksheets/sheet1.xml,142,subjective_ordinal_mapping
+b608bf335a906d06,Tamworth.xlsx,xl/worksheets/sheet1.xml,143,subjective_ordinal_mapping
+503b586356751dc2,Tamworth.xlsx,xl/worksheets/sheet1.xml,144,subjective_ordinal_mapping

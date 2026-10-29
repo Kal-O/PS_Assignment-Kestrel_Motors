@@ -1,0 +1,33 @@
+{
+  "files": 52,
+  "candidate_rows": 7271,
+  "qa_status": {
+    "accepted": 7125,
+    "review": 146
+  },
+  "qa_flags": {
+    "unknown_department": 127,
+    "subjective_ordinal_mapping": 425,
+    "superseded_file": 112,
+    "duplicate_response_id": 112,
+    "invalid_date": 26,
+    "possible_repeat_july_august": 43,
+    "missing_rating": 13,
+    "date_outside_period": 7,
+    "post_closure": 6,
+    "missing_date": 1
+  },
+  "rated_accepted": 7115,
+  "negative_accepted": 1588,
+  "negative_rate": 0.2232,
+  "negative_keyword_theme_mentions": {
+    "Communication": 495,
+    "Price & billing": 277,
+    "Waiting & delays": 332,
+    "Parts availability": 197,
+    "Quality & repairs": 137,
+    "Staff & courtesy": 36
+  },
+  "files_sheets": 82,
+  "reminder": "Keyword matches are exploratory proxies, NOT validated AI classifications or proven negative drivers."
+}
